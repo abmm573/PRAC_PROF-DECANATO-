@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fondo global para toda la plataforma */
+body {
+  @apply bg-gris-fondo text-slate-800;
+}
