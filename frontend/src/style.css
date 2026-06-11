@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --umsa-blue: #001B44;
+  --umsa-red:  #B00020;
+}
+
+.umsa-page {
+  background: linear-gradient(180deg, var(--umsa-blue) 0%, var(--umsa-red) 100%);
+}
+
+.umsa-header {
+  background: linear-gradient(90deg, var(--umsa-blue) 0%, var(--umsa-red) 100%);
+}
+
+.umsa-card {
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(10px);
+}
+

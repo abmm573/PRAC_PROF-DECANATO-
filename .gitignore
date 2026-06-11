@@ -1,0 +1,19 @@
+# Backend (Python / FastAPI)
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+
+# Frontend (Node / Vue.js / Vite)
+frontend/node_modules/
+frontend/dist/
+.env*.local
+
+# Bases de datos locales (para evitar subir bases de pruebas)
+*.db
+*.sqlite3
+
+# Editores y sistema operativo
+.vscode/
+.DS_Store
