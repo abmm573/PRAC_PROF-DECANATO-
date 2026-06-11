@@ -26,7 +26,7 @@ Proyecto de gestión de asistencia para pasantes de la Facultad de Ciencias Soci
 Ejemplo mínimo de `.env`:
 
 ```env
-DATABASE_URL=postgresql://postgres:abmm@localhost/asistencia
+DATABASE_URL=postgresql://postgres:123456@localhost/asistencia
 SECRET_KEY=super_secreta_clave_para_jwt_cambiar_en_produccion
 ```
 
