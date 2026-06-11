@@ -74,7 +74,7 @@ INSERT INTO roles (nombre) VALUES ('ADMINISTRADOR'), ('ENCARGADO'),('PASANTE');
 -- Insertar un par de carreras de Ciencias Sociales (puedes agregar las 5 luego)
 INSERT INTO carreras (nombre, descripcion) VALUES 
 ('Antropologia', 'Carrera de Antropología'),
-('Sociología', 'Carrera de Sociología'),
+('Arqueologia', 'Carrera de Arqueologia'),
 ('Sociología', 'Carrera de Sociología'),
 ('Trabajo Social', 'Carrera de Trabajo Social'),
 ('Comunicación Social', 'Carrera de Comunicación Social');
