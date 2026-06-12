@@ -445,7 +445,15 @@ app-main/
 ```
 
 ---
+## Datos de acceso iniciales
 
+Al arrancar el backend, el sistema crea automáticamente un administrador (Decano) inicial si no existe uno:
+
+- Email: `admin@academico.com`
+- Password: `Admin1234!`
+
+> Para el rol de estudiante, simplemente hacer el registro como nuevo.
+> 
 ## Licencia
 
 Este proyecto es de uso académico/institucional. Consulta con el equipo de desarrollo para permisos de uso o distribución.
